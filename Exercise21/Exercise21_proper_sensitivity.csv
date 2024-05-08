@@ -1,0 +1,9 @@
+;A;B;C;D;E
+1;Sensitivity analysis;;;Price per truck;12000
+2;Additional trucks;Assigned routes;Savings;Marginal savings;Profit
+3;0;1\textrightarrow CA;35700;0;0
+4;1;2\textrightarrow MI, 2\textrightarrow NY;44400;8700;-3300
+5;2;2\textrightarrow NY, 1\textrightarrow CA;62250;26550;2550
+6;3;2\textrightarrow NY, 3\textrightarrow NY, 1\textrightarrow CA;64375;28675;-7325
+7;4;2\textrightarrow MI, 2\textrightarrow NY, 1\textrightarrow CA;80100;44400;-3600
+8;;;;;

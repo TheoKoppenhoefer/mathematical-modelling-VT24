@@ -1,0 +1,9 @@
+;A;B;C;D;E;F;G;H
+1;;;;Possible;;;Actual;
+2;Route;Shipments;Cost / Shipment;Trucks;Savings;Decision;Trucks;Savings
+3;2\textrightarrow MI;70;510;2;17850;1;2;17850
+4;2\textrightarrow NY;90;590;2;26550;1;2;26550
+5;3\textrightarrow NY;10;425;1;2125;0;0;0
+6;1\textrightarrow CA;105;680;3;35700;1;3;35700
+7;3\textrightarrow GA;75;450;2;16875;0;0;0
+8;;;Available;7;Totals;3;7;80100
